@@ -1,4 +1,4 @@
-# react_webpack_error-solution- copy the env file above and paste it in your react_project/src
+# react_webpack_error-solution- copy the env file above and paste it in your root direcotry in react your react project
 If you would prefer to ignore this check, add SKIP_PREFLIGHT_CHECK=true to an .env file in your project. That will permanently disable this message but you might encounter other issues.
 if you are getting this type of error
 #Note:donot use brackets in your terminal just copy paste the code inside the brackets
